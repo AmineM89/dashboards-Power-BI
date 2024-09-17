@@ -56,4 +56,5 @@ Voici un aperçu des projets que j'ai réalisés :
 **Modèle de données:**
 
 <img width="776" alt="data model overview" src="https://github.com/user-attachments/assets/e1f1f27c-9bdf-431f-afb2-db8c65a40fc9">
+
 ---
