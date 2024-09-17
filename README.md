@@ -21,7 +21,8 @@ Voici un aperçu des projets que j'ai réalisés :
 
 **Aperçu du dashboard:**
 
-<img width="742" alt="Apercu Dashboard PF Clients" src="https://github.com/user-attachments/assets/c02230cc-7cc3-45ed-9039-498b22b12023">
+<img width="742" alt="Apercu Dashboard PF Clients" src="https://github.com/user-attachments/assets/2d13f079-4d92-4709-a399-7a33c7433516">
+
 
 
 2. **Dashboard Réalisation par Wilaya**  
@@ -31,7 +32,7 @@ Voici un aperçu des projets que j'ai réalisés :
 
 **Aperçu du dashboard:**
 
-<img width="743" alt="par région" src="https://github.com/user-attachments/assets/b707e562-4bb1-4c78-b535-64a68376bfd8">
+<img width="743" alt="par région" src="https://github.com/user-attachments/assets/8f9bb4f1-eaeb-4a96-956b-1b68363641a9">
 
 
 3. **Rapport Clients Perdus**  
@@ -41,7 +42,7 @@ Voici un aperçu des projets que j'ai réalisés :
 
 **Aperçu du dashboard:**
 
-<img width="781" alt="Clients Perdus" src="https://github.com/user-attachments/assets/e94f1cd6-89a8-4229-acbc-c31ef87706d4">
+<img width="781" alt="Clients Perdus" src="https://github.com/user-attachments/assets/d0de747f-09f9-42f1-9a35-b1b8c81bb5a3">
 
 
 4. **Dashboard S&OP**  
@@ -49,10 +50,10 @@ Voici un aperçu des projets que j'ai réalisés :
 
 **Aperçu du dashboard:**
 
-<img width="808" alt="SandOP" src="https://github.com/user-attachments/assets/3db3a616-2a9f-435e-9cce-7203d47a20ce">
+<img width="808" alt="SandOP" src="https://github.com/user-attachments/assets/ddfb04b1-3f72-4636-be74-4934f3a6bc0a">
+
 
 **Modèle de données:**
 
-<img width="776" alt="data model overview" src="https://github.com/user-attachments/assets/0bc1dcc9-158c-4111-ba4f-f80d88379e54">
-
+<img width="776" alt="data model overview" src="https://github.com/user-attachments/assets/e1f1f27c-9bdf-431f-afb2-db8c65a40fc9">
 ---
