@@ -49,6 +49,7 @@ Voici un aperçu des projets que j'ai réalisés :
    Ce tableau de bord interactif, véritable tour de contrôle de notre processus Sales & Operation Planning (S&OP), suit les KPI du processus S&OP, en intégrant des données complexes provenant de multiples sources. Il permet de visualiser des indicateurs tels que la précision des prévisions, les dépenses commerciales, les niveaux de stock, et les dates de péremption des produits. Ce dashboard est particulièrement utile pour ajuster les plans d’approvisionnement en fonction des prévisions de vente, ce qui permet de minimiser les ruptures de stock et d’optimiser la gestion des produits à date d’expiration proche. Grâce à la centralisation des données, il devient plus facile de prendre des décisions éclairées pour améliorer la synchronisation des opérations et des ventes.
 
 **Démonstration vidéo:**
+
 <a href="https://www.youtube.com/watch?v=HdULkOVeGpI">
     <img src= "https://github.com/user-attachments/assets/06c5e276-b34a-4220-a1e0-3227cb429cc5" alt="Dashboard S&OP" width="800"/>
 </a>
